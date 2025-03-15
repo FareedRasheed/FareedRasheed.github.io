@@ -64,6 +64,13 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
+  educations: [
+    {
+      institution: 'University of Waterloo',
+      degree: 'Mechatronics Engineering',
+      from: 'Present',
+      to: '',
+    },
   social: {
     linkedin: 'Fareed-Rasheed',
     x: '',
@@ -130,13 +137,7 @@ const CONFIG = {
       link: '',
     },
   ],
-  educations: [
-    {
-      institution: 'University of Waterloo',
-      degree: 'Mechatronics Engineering',
-      from: 'Present',
-      to: '',
-    },
+  
    /* {
       institution: 'Institution Name',
       degree: 'Degree',
@@ -181,11 +182,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'cmyk',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -244,7 +245,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+ /* footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
@@ -252,5 +253,6 @@ const CONFIG = {
 
   enablePWA: true,
 };
+*/
 
 export default CONFIG;

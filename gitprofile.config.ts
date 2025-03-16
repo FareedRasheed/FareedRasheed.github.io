@@ -129,7 +129,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: '',
       authors: '',
-      link: 'www.linkedin.com/in/fareed-rasheed',
+      link: 'https://www.linkedin.com/in/fareed-rasheed',
       description:
         '',
     },

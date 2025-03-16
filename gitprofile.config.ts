@@ -125,16 +125,7 @@ const CONFIG = {
  
   publications: [
     {
-      title: 'About me',
-      conferenceName: '',
-      journalName: '',
-      authors: '',
-      link: '',
-      description:
-        'Hi, I\'m Fareed Rasheed, a Mechatronics Engineering Student at the University of Waterloo. I\'ve got a passion for robotics and creating. I\'m currently working with Swish Solar, a startup focused on developing more efficient and sustainable solar energy using self-cleaning technology. In my free time, I\'ve been developing some projects of my own exploring robotics, control systems, AI, computer vision, and software development. Take a look! ',
-    },
-    {
-      title: 'b',
+      title: 'Hi, I\'m Fareed Rasheed, a Mechatronics Engineering Student at the University of Waterloo. I\'ve got a passion for robotics and creating. I\'m currently working with Swish Solar, a startup focused on developing more efficient and sustainable solar energy using self-cleaning technology. In my free time, I\'ve been developing some projects of my own exploring robotics, control systems, AI, computer vision, and software development. Take a look! ',
       conferenceName: '',
       journalName: '',
       authors: '',
@@ -144,11 +135,12 @@ const CONFIG = {
     },
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+/*  blog: {
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 0, // How many articles to display. Max is 10.
   },
+  */
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },

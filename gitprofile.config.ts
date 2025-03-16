@@ -127,7 +127,7 @@ const CONFIG = {
  
   publications: [
     {
-      title: '',
+      title: 'About me',
       conferenceName: '',
       journalName: '',
       authors: '',
@@ -136,7 +136,7 @@ const CONFIG = {
         'Hi, I\'m Fareed Rasheed, a Mechatronics Engineering Student at the University of Waterloo. I\'ve got a passion for robotics and creating. I\'m currently working with Swish Solar, a startup focused on developing more efficient and sustainable solar energy using self-cleaning technology. In my free time, I\'ve been developing some projects of my own exploring robotics, control systems, AI, computer vision, and software development. Take a look! ',
     },
     {
-      title: '',
+      title: 'b',
       conferenceName: '',
       journalName: '',
       authors: '',

@@ -139,11 +139,11 @@ export interface SanitizedConfig {
   github: SanitizedGithub;
   projects: SanitizedProjects;
   seo: SanitizedSEO;
+  educations: Array<SanitizedEducation>;
   social: SanitizedSocial;
   resume: SanitizedResume;
   skills: Array<string>;
   experiences: Array<SanitizedExperience>;
-  educations: Array<SanitizedEducation>;
   certifications: Array<SanitizedCertification>;
   publications: Array<SanitizedPublication>;
   googleAnalytics: SanitizedGoogleAnalytics;

@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Fareed Rasheed',
     description: '',
     imageURL: '',
   },
@@ -129,7 +129,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: '',
       authors: '',
-      link: '',
+      link: 'www.linkedin.com/in/fareed-rasheed',
       description:
         '',
     },

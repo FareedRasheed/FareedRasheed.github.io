@@ -82,6 +82,10 @@ export const getSanitizedConfig = (
         telegram: config?.social?.telegram,
         researchGate: config?.social?.researchGate,
       },
+       educations:
+        config?.educations?.filter(
+          (item) => item.institution || item.degree || item.from || item.to,
+        ) || [],
       resume: {
         fileUrl: config?.resume?.fileUrl || '',
       },
@@ -99,10 +103,7 @@ export const getSanitizedConfig = (
           (certification) =>
             certification.year || certification.name || certification.body,
         ) || [],
-      educations:
-        config?.educations?.filter(
-          (item) => item.institution || item.degree || item.from || item.to,
-        ) || [],
+     
       publications: config?.publications?.filter((item) => item.title) || [],
       googleAnalytics: {
         id: config?.googleAnalytics?.id,

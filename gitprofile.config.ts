@@ -68,8 +68,8 @@ const CONFIG = {
     {
       institution: 'University of Waterloo',
       degree: 'Mechatronics Engineering',
-      from: 'Present',
-      to: '',
+      from: '2024',
+      to: '2029',
     },
   social: {
     linkedin: 'Fareed-Rasheed',

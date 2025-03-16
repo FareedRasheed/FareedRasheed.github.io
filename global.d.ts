@@ -105,7 +105,12 @@ interface SEO {
    */
   imageURL?: string;
 }
-
+interface Education {
+  institution?: string;
+  degree?: string;
+  from: string;
+  to: string;
+}
 interface Social {
   /**
    * LinkedIn
@@ -230,12 +235,7 @@ interface Certification {
   link?: string;
 }
 
-interface Education {
-  institution?: string;
-  degree?: string;
-  from: string;
-  to: string;
-}
+
 
 interface Publication {
   title: string;

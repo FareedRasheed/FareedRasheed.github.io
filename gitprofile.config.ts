@@ -234,7 +234,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-/*  footer: `Made with <a 
+  footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
@@ -242,5 +242,5 @@ const CONFIG = {
 
   enablePWA: true,
 };
-*/
+
 export default CONFIG;

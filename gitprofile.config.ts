@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: false, // Display GitHub projects?
+      display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -48,33 +48,18 @@ const CONFIG = {
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Fareed Rasheed',
+    title: 'Portfolio of Ariful Alam',
     description: '',
     imageURL: '',
   },
-  educations: [
-    {
-      institution: 'University of Waterloo',
-      degree: 'Mechatronics Engineering',
-      from: '2024',
-      to: '2029',
-    },
   social: {
-    linkedin: 'Fareed-Rasheed',
-    x: '',
-    mastodon: '',
+    linkedin: 'ariful-alam',
+    x: 'arif_szn',
+    mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -84,22 +69,22 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
+    medium: 'arifszn',
+    dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: '',
+    website: 'https://www.arifszn.com',
     phone: '',
-    email: 'fsrasheed2017@gmail.com',
+    email: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'python',
-    'Java',
+    'PHP',
+    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -131,22 +116,27 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: '',
-      body: '',
-      year: '',
-      link: '',
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
     },
   ],
-  
-   /* {
+  educations: [
+    {
+      institution: 'Institution Name',
+      degree: 'Degree',
+      from: '2015',
+      to: '2019',
+    },
+    {
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2012',
       to: '2014',
     },
-  */
   ],
-/*  publications: [
+  publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
@@ -172,7 +162,6 @@ const CONFIG = {
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
-  */
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
@@ -182,11 +171,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'cmyk',
+    defaultTheme: 'lofi',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -245,7 +234,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
- /* footer: `Made with <a 
+/*  footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
@@ -254,5 +243,4 @@ const CONFIG = {
   enablePWA: true,
 };
 */
-
 export default CONFIG;

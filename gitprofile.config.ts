@@ -33,17 +33,41 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'ESP32 Drone',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Quadcopter built using an ESP32, programmed in C++, controlled via bluetooth',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Gesture recognition glove',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Used ML to identify gestures performed using Arduino and C++ ',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Robot Arm',
+          description:
+            '3-axis robot arm using Arduino and C++; designed and 3D printed in OnShape',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+         {
+          title: 'CNC Milling machine',
+          description:
+            '3-Axis  CNC foam milling machine built using C++ and LegoMindstorm',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+         {
+          title: 'EnerPro; Energy and HVAC Auditing',
+          description:
+            'An app to assist energy consultants with on-site data collection',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',

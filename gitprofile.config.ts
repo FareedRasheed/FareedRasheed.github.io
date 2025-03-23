@@ -53,8 +53,8 @@ const CONFIG = {
           description:
             '3-Axis CNC foam milling machine built using C++ and LegoMindstorm',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/FareedRasheed/CNC-Mill/blob/main/pics/LegoCNC2.png?raw=true',
+          link: 'https://github.com/FareedRasheed/CNC-Mill',
         },
          {
           title: 'EnerPro',

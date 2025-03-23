@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'An app to assist energy consultants with on-site data collection',
           imageUrl:
-            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/bolt.jpg',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/ab7d2ba0c5c91a78c7928a3f74bbb63dab826f15/public/bolt.jpg',
           link: 'https://github.com/FareedRasheed/EnerPro-Demo',
         },
       ],

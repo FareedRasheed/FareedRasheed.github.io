@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             '3-Axis CNC foam milling machine built using C++ and LegoMindstorm',
           imageUrl:
-            'https://github.com/FareedRasheed/CNC-Mill/blob/main/pics/LegoCNC2.png?raw=true',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/LegoCNC2.jpg?raw=true',
           link: 'https://github.com/FareedRasheed/CNC-Mill',
         },
          {

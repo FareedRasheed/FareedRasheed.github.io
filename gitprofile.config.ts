@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Gesture recognition glove',
           description:
-            'Used ML to identify gestures performed using Arduino and C++ ',
+            'Used ML to identify gestures performed using Arduino and C++',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -51,7 +51,7 @@ const CONFIG = {
          {
           title: 'CNC Milling machine',
           description:
-            '3-Axis  CNC foam milling machine built using C++ and LegoMindstorm',
+            '3-Axis CNC foam milling machine built using C++ and LegoMindstorm',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -120,6 +120,7 @@ const CONFIG = {
     'C++',
     'Circuitry',
     'App Dev',
+    'Android Studio'
   ],
   experiences: [
     {
@@ -127,7 +128,7 @@ const CONFIG = {
       position: 'Engineering Assistant',
       from: 'January 2025',
       to: 'May 2025',
-      companyLink: 'https://example.com',
+      companyLink: 'https://swishsolar.framer.website/',
     },
   ],
   certifications: [
@@ -141,7 +142,7 @@ const CONFIG = {
  
   publications: [
     {
-      title: 'Hi, I\'m Fareed Rasheed, a Mechatronics Engineering Student at the University of Waterloo. I\'ve got a passion for robotics and creating. I\'m currently working with Swish Solar, a startup focused on developing more efficient and sustainable solar energy using self-cleaning technology. In my free time, I\'ve been developing some projects of my own exploring robotics, control systems, AI, computer vision, and software development. Take a look! ',
+      title: 'Hi, I\'m Fareed Rasheed, a Mechatronics Engineering Student at the University of Waterloo. I\'ve got a passion for robotics and creating. I\'m currently working with Swish Solar, a startup focused on developing more efficient and sustainable solar energy using self-cleaning technology. In my free time, I\'ve been developing some projects of my own exploring robotics, control systems, AI, computer vision, and software development. I\'m currently working on an autonomous ESP32 quadcopter but in the meantime, take a look at my other works! ',
       conferenceName: '',
       journalName: '',
       authors: '',

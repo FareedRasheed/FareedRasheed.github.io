@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Gesture recognition glove',
+          title: 'Sign Language Interpreter',
           description:
             'Used ML to identify gestures performed using Arduino and C++',
           imageUrl:

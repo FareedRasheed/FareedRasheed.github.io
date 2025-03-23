@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'Used ML to identify gestures performed using Arduino and C++',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/SignGlove.jpg?raw=true',
+          link: 'https://github.com/FareedRasheed/Sign-Language-Interpreter',
         },
         {
           title: 'Robot Arm',

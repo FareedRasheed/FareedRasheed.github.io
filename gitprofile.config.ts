@@ -33,14 +33,6 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'ESP32 Drone',
-          description:
-            'Quadcopter built using an ESP32, programmed in C++, controlled via bluetooth',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
           title: 'Gesture recognition glove',
           description:
             'Used ML to identify gestures performed using Arduino and C++ ',

@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             '3-axis robot arm using Arduino and C++; designed and 3D printed in OnShape',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/SignGlove.jpg?raw=true',
+          link: 'https://github.com/FareedRasheed/Sign-Language-Interpreter',
         },
          {
           title: 'CNC Milling machine',

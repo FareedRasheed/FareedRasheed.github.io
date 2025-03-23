@@ -69,8 +69,8 @@ const CONFIG = {
           description:
             'An app to assist energy consultants with on-site data collection',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/bolt.jpg',
+          link: 'https://github.com/FareedRasheed/EnerPro-Demo',
         },
       ],
     },

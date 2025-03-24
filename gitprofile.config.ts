@@ -35,23 +35,23 @@ const CONFIG = {
         {
           title: 'Sign Language Interpreter',
           description:
-            'Used ML to identify gestures performed using Arduino and C++',
+            'Developed a Sign Language Interpreter Glove using Arduino, MPU-6050, and ML to detect and translate gestures into digital signals.',
           imageUrl:
             'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/SignGlove.jpg?raw=true',
           link: 'https://github.com/FareedRasheed/Sign-Language-Interpreter',
         },
         {
-          title: 'Robot Arm',
+          title: 'Arduino Robot Arm',
           description:
             '3-axis robot arm using Arduino and C++; designed and 3D printed in OnShape',
           imageUrl:
-            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/SignGlove.jpg?raw=true',
-          link: 'https://github.com/FareedRasheed/Sign-Language-Interpreter',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/Assembly%201.png?raw=true',
+          link: 'https://github.com/FareedRasheed/Robot-Arm',
         },
          {
           title: 'CNC Milling machine',
           description:
-            '3-Axis CNC foam milling machine built using C++ and LegoMindstorm',
+            '3-axis CNC foam milling machine built entirely of Legos, programmed in C',
           imageUrl:
             'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/LegoCNC2.jpg?raw=true',
           link: 'https://github.com/FareedRasheed/CNC-Mill',

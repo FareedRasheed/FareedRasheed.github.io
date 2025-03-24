@@ -70,7 +70,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Fareed Rasheed',
     description: '',
-    imageURL: 'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/favicon-32x32.png?raw=true',
+    imageURL: 'https://github.com/FareedRasheed/FareedRasheed.github.io/raw/main/public/FareedRasheedResume.pdf',
   },
   social: {
     linkedin: 'Fareed-Rasheed',

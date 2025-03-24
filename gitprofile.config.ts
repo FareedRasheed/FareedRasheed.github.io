@@ -96,7 +96,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/574559bfd14f361f3bc9be22dd70981e34b6cf03/public/F2025_Resume_external.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
    educations: [
     {

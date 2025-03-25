@@ -110,6 +110,7 @@ const CONFIG = {
   skills: [
     'Arduino',
     'ESP32',
+    'KiCAD',
     'SolidWorks',
     'Fusion360',
     'AutoCAD',

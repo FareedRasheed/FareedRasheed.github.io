@@ -96,7 +96,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/FareedRasheed/FareedRasheed.github.io/raw/main/public/Fareed_Rasheed_Resume_F2025.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1gt_E7J5XtDJ_JZtTZ6UljmF-ruHpKrQ7/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
    educations: [
     {

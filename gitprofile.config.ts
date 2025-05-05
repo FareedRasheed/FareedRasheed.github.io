@@ -51,7 +51,7 @@ const CONFIG = {
          {
           title: 'CNC Milling machine',
           description:
-            '3-axis CNC foam milling machine built entirely of Legos, programmed in C',
+            '3-axis CNC foam milling machine built entirely of Legos, programmed in C++',
           imageUrl:
             'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/LegoCNC2.jpg?raw=true',
           link: 'https://github.com/FareedRasheed/CNC-Mill',

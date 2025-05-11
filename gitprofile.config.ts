@@ -57,6 +57,14 @@ const CONFIG = {
           link: 'https://github.com/FareedRasheed/CNC-Mill',
         },
          {
+          title: 'Rocket Canards',
+          description:
+            'Mechanically-linked rocket canards designed and 3D printed in SolidWorks for Waterloo Rocketry\'s, Aurora',
+          imageUrl:
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/bolt.jpg?raw=true',
+          link: 'https://github.com/FareedRasheed/EnerPro-Demo',
+        },
+         {
           title: 'EnerPro',
           description:
             'HVAC and Energy auditing software to assist energy consultants with on-site data collection; Android Studio and Java',

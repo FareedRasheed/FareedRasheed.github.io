@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Mechanically-linked rocket canards designed and 3D printed in SolidWorks for Waterloo Rocketry\'s, Aurora',
           imageUrl:
-            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/canards.jpg?raw=true',
+            'https://github.com/FareedRasheed/FareedRasheed.github.io/blob/main/public/canards.png?raw=true',
           link: '',
         },
          {
